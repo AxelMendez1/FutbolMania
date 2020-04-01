@@ -1,0 +1,30 @@
+.imgFilter{
+    filter: brightness(0.50);
+}
+.newColorPurple{
+    background-color: #dd0707;
+    border: none;
+    color: white;
+}
+.logo1{
+    animation: scaleLogo 2s infinite alternate;
+}
+@keyframes scaleLogo{
+    to{
+        transform: scale(1.2);
+    }
+}
+*{
+    scroll-behavior: smooth;
+}
+.card img{
+    transition: transform 2s;
+}
+.card img:hover{
+    transform: scale(1.1);
+}
+.cardImg{
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
