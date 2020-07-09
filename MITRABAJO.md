@@ -9,3 +9,7 @@ Donde se basó en la temática fútbol y se logró lo siguiente:
 -Se hizo un PANEL ADMINISTRATIVO para llevar la cuenta de las ordenes pedidas(también se pueden editar y eliminar las ordenes a través de este PANEL). 
 -Se utilizó FIREBASE como base de datos principal, garantizó seguridad y rapidez. 
 ES UN TRABAJO CON MUCHO ESFUERZO LOGRADO EN 3 DIAS. Espero que les haya gustado, y gracias por visitar este repo, saludos!!
+<-- IMPORTANTE -->
+Para entrar al panel administrativo.
+USUARIO: admin@gmail.com
+CONTRASEÑA: qwerty
