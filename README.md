@@ -1,7 +1,7 @@
-## FUTBOL MANIA
+## ⚽️ FUTBOL MANIA ⚽️
 Primer proyecto del 2020 realizado con HTML, CSS, JavaScript, Bootstrap y Firebase.
 
- Se basó en la temática fútbol y se logró lo siguiente: 
+Se basó en la temática fútbol y se logró lo siguiente: 
 - Realización la estructuración de la página desde 0.
 - Se solucionó problemas presentados en el momento.
 - Se fusionó Bootstrap, Font Awesome y SweetAlert para darle un diseño más bonito al proyecto.
