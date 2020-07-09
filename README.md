@@ -22,9 +22,9 @@ Para entrar al panel administrativo:
 # PRODUCTOS
 [![](https://github.com/AxelMendez1/imgpr/blob/master/productos.PNG?raw=true)](https://xfutbolmaniax.000webhostapp.com/#Productos)
 
-#ENLACES
+# ENLACES
 ![](https://github.com/AxelMendez1/imgpr/blob/master/enlaces.PNG?raw=true)
 
-#PANEL ADMINISTRATIVO
+# PANEL ADMINISTRATIVO
 ![](https://github.com/AxelMendez1/imgpr/blob/master/admin.PNG?raw=true)
 
